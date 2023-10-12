@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi
+
+I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、C++、Common Lisp、Rust（まだ勉強中）をかけます。
+
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryosuke-prog&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryosuke-prog&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
 <!--
 **Ryosuke-prog/Ryosuke-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi
 
-I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、C++、Common Lisp、Rust（まだ勉強中）をかけます。
+I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、C/C++、Common Lisp、Rust（まだ勉強中）をかけます。
 OSはGentooとOpenBSDを使っています。dotfilesにカスタムカーネルのconfigファイルを置いています。
 
 

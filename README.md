@@ -4,11 +4,11 @@ I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書く
 OSはGentooとOpenBSDを使っています。
 
 
-<p align="left"> 
+<!--<p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unixtech-06&layout=compact&count_private=true&show_icons=true&theme=onedark"/>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=unixtech-06&count_private=true&show_icons=true&show_icons=true&theme=onedark"/>
 </p>
-
+-->
 <!--
 **Ryosuke-prog/Ryosuke-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

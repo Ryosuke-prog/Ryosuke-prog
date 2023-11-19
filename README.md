@@ -11,7 +11,7 @@ OSはGentooとOpenBSDを使っています。
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/sgentoo-plain.svg" title="Gentoo" alt="Gentoo" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain.svg" title="Gentoo" alt="Gentoo" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **Ryosuke-prog/Ryosuke-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

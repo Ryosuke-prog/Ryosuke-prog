@@ -1,7 +1,7 @@
 ### Hi
 
 I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、C/C++、Common Lispをかけます。
-OSはGentooとOpenBSDを使っています。dotfilesにカスタムカーネルのconfigファイルを置いています。
+OSはGentooとOpenBSDを使っています。
 
 
 <p align="left"> 

@@ -1,6 +1,6 @@
 ### Hi
 
-I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、C/C++、Common Lispをかけます。
+I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、主にC/C++を書いています。
 OSはGentooとOpenBSDを使っています。
 
 

@@ -4,7 +4,7 @@
 
 + If you want to contact me, please DM me on Twitter.
 
-+ Check out https://unixtech-06.github.io!
++ Check out https://unixtech-06.github.io
 
 
 <p align="left"> 

@@ -1,4 +1,4 @@
-#+TITLE: Hi \o;o/
+* Hi \o;o/
 
 + I am a 17 year old Japanese high school student, Unix enthusiast, Lisper, and OSS advocate.
 

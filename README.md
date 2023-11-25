@@ -1,7 +1,10 @@
 ### Hi
 
-I'm Ryosuke. 高専本科2年情報科の、日本人です。コードを書くのが趣味で、主にC/C++を書いています。
-OSはGentooとOpenBSDを使っています。
++ I am a 17 year old Japanese high school student, Unix enthusiast, Lisper, and OSS advocate.
+
++ If you want to contact me, please DM me on Twitter.
+
++ Check out [[https://unixtech-06.github.io][My Portfoilo]]
 
 
 <p align="left"> 

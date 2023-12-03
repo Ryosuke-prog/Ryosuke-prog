@@ -19,7 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula)
 <!--
 **Ryosuke-prog/Ryosuke-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

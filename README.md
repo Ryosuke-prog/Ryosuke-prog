@@ -6,6 +6,8 @@
 
 + Check out https://unixtech-06.github.io
 
++ I believe that the BSD/KNF style is the best coding style for C, and it is the style I adhere to in my coding.
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unixtech-06&layout=compact&count_private=true&show_icons=true&theme=onedark"/>

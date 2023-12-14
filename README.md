@@ -4,7 +4,7 @@
 
 + If you want to contact me, please DM me on Twitter.
 
-+ Check out https://unixtech-06.github.io
++ Check out https://unixtech.cc
 
 + I believe that the BSD/KNF style is the best coding style for C, and it is the style I adhere to in my coding.
 
